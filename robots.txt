@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://t.sikkema-engineering.nl/sitemap.xml
